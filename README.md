@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://ibhatnasir.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Front-End **
 
 - 👨‍💻 All of my projects are available at [https://ibhatnasir.github.io/Portfolio/](https://ibhatnasir.github.io/Portfolio/)
 
